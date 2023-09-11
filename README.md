@@ -1,2 +1,4 @@
-# Cosc2
-2030 lab 2
+Zach Nelson
+Lab 2
+9-11-23
+no help yet
